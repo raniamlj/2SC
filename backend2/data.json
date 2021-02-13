@@ -1,0 +1,32 @@
+﻿{
+    "Feuille1": [
+        {
+            "temps": "t1",
+            "valeur": "100"
+        },
+        {
+            "temps": "t2",
+            "valeur": "150"
+        },
+        {
+            "temps": "t3",
+            "valeur": "40"
+        },
+        {
+            "temps": "t4",
+            "valeur": "207"
+        },
+        {
+            "temps": "t5",
+            "valeur": "90"
+        },
+        {
+            "temps": "t6",
+            "valeur": "60"
+        },
+        {
+            "temps": "t7",
+            "valeur": "110"
+        }
+    ]
+}
